@@ -24,7 +24,7 @@ He exited th paramedical school in 2008, endowed with his State of Diploma of La
 
 On the language side, Dègninou is a French-English bilingual and also speaks several other local languages. These language skills make it easy for him to work in most of global health contexts.
 
-Getting started
+Français
 ======
 En 2015, Yehadji Degninou, MPH fonde  www.degninou.net, une vitrine pour ses activités. Dès le Novembre 2015, quelques mois après son retour des États-Unis, il publie ses premiers articles qui obtiennent un écho favorable auprès de ses pairs. Ce site se veut être une plateforme de partage de ses passions académiques et professionnelles en santé publique, en santé internationale, en science des données, dans l’humanitaire, sur les activités de terrain et autres.
 
