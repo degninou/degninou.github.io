@@ -85,10 +85,10 @@ author:
   bio              : "Public health scientist with experience in Epidemiology, Data Science, Clinical Laboratory and Health research. Monitoring and Evaluation Specialist."
   location         : "Lomé, Togo"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Yehadji%2BDegninou"
+  googlescholar    : "https://scholar.google.com/citations?user=xM7PFZEAAAAJ&hl=en"
+  email            : "degninou.yehadji@fulbrightmail.org"
+  researchgate     : "https://www.researchgate.net/profile/Degninou_Yehadji"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "degninou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/degninoumph"
+  orcid            : "https://orcid.org/0000-0003-3603-2816"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/7689391/de-gninou"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "degninou1er"
   vine             :
   weibo            :
   xing             :
