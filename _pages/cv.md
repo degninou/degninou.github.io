@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,8 +29,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Clinical laboratory
+* Epidemiology, Health Statistics
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
